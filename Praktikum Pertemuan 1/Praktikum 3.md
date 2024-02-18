@@ -8,7 +8,9 @@
   <img width="460" height="300" src="https://i.imgur.com/depaLbh.png">
 </p>
 > SOAL 3. Jelaskan bagaimana solusi agar data pada soal 2 dapat ditambahkan ?
+</p>
 Jawab :  Agar dapat ditambahkan ialah kode penjualannya diubah ke nomor yg lain yang belum ada di kode penjualan agar tidak terjadi inkonsistensi data
+</p>
 > SOAL 4. Tambahkan data detail_penjualan sebagaimana berikut - kode_penjualan = 2 - kode_barang = 3 - harga = 5.000 - jumlah = 5
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/4hxrR7G.png">
