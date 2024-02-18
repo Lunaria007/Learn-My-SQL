@@ -18,6 +18,9 @@ Apakah data dapat ditambahkan? Jelaskan alasannya !
 Jawab : Dapat ditambahkan, karena kode penjualan 2 belum ada di data sehingga dapat ditambahkan, karena apa bila ada data dengan kode penjualan yg sama harus dengan kode barang yang berbeda
 </p>
 > SOAL 5. Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan ?
+</p>
 Jawab : Dengan menambahkan data pada kode penjualan dan kode barang dengan nomor/data yang belum terdata
+</p>
 > SOAL 6. Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data ?
+</p>
 Jawab : Duplikasi data terjadi ketika ada lebih dari satu baris dalam tabel yang memiliki nilai yang sama pada beberapa kolom, pada soal diatas contohnya, terdapat nilai yang sama pada kolom kode penjualan sehingga data tidak dapat ditambahkan. Inkonsisten data : Inkonsistensi data adalah munculnya data yang tidak konsisten pada kolom yang sama dalam satu atau beberapa file data yang dihubungkan.
