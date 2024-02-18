@@ -11,7 +11,7 @@
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/1DSpqY1.png">
 </p>
-> Restore basis data penjualan_produk dari file penjualan_produk.sql. caranya klik tab import, kemudian klik tombol choose file, lalu pilih file penjualan_produk.sql yang telah diberikan
+> Restore basis data penjualan_produk dari file penjualan_produk.sql. caranya klik tab import, kemudian klik tombol choose file, lalu pilih file penjualan_produk.sql yang telah diberikan, lalu tekan GO yang berada dibawah
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/UpbKIcj.png">
 </p>
