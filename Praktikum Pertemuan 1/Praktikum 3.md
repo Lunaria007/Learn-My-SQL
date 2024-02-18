@@ -14,7 +14,9 @@ Jawab :  Agar dapat ditambahkan ialah kode penjualannya diubah ke nomor yg lain 
   <img width="460" height="300" src="https://i.imgur.com/4hxrR7G.png">
 </p>
 Apakah data dapat ditambahkan? Jelaskan alasannya !
+</p>
 Jawab : Dapat ditambahkan, karena kode penjualan 2 belum ada di data sehingga dapat ditambahkan, karena apa bila ada data dengan kode penjualan yg sama harus dengan kode barang yang berbeda
+</p>
 > SOAL 5. Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan ?
 Jawab : Dengan menambahkan data pada kode penjualan dan kode barang dengan nomor/data yang belum terdata
 > SOAL 6. Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data ?
