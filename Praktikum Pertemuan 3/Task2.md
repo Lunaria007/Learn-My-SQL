@@ -10,5 +10,5 @@
 <p align="center"> <img width="460" height="300" src="https://i.imgur.com/UIid423.png"> 
 </p>
 4. Menggambar E-R Diagram Manual
-<p align="center"> <img width="800" height="450" src="https://i.imgur.com/cnkhvcZ.png"> 
+<p align="center"> <img width="800" height="450" src="https://i.imgur.com/gnw42o9.png"> 
 </p>
